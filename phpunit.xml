@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit
+        verbose="true"
+        colors="true"
+    >
+    <testsuites>
+        <testsuite name="bc_add">
+            <directory suffix="test.php">.</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
